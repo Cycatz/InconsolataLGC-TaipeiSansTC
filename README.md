@@ -2,6 +2,8 @@
 
 This font is merged from [Inconsolata LGC](https://github.com/samposm/Inconsolata-LGC) and [Taipei Sans TC](https://sites.google.com/view/jtfoundry) with [FontForge](https://fontforge.org)
 
+![compare.png](assets/compare.png)
+![preview.png](assets/preview.png)
 
 ## Features 
 - Cyrillic glyphs (from Inconsolata LGC) 
